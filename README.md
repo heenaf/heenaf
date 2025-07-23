@@ -9,7 +9,7 @@ I recently completed a *Java Programming internship at Codsoft*, where I transla
 <p align="center">
   <a href="mailto:heenafathima0517@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/heenafathimah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://heena-h.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
 ---
@@ -44,32 +44,44 @@ I recently completed a *Java Programming internship at Codsoft*, where I transla
 
 ---
 
-### *My Featured Projects 🚀*
+### 🚀 My Featured Projects
 
-Here are some of the key projects I've worked on, showcasing a range of my skills.
+Here are some of the key projects I've worked on, showcasing a range of my skills:
 
-| Project Type | Description | Link |
-| :--- | :--- | :---: |
-| *ReactJS Project* | [cite_start]A dynamic and responsive web application built using ReactJS and Tailwind CSS. [cite: 5] | [View Code](#) |
-| *PHP-MySQL CRUD App* | [cite_start]A full-stack application for robust data management, demonstrating expertise in PHP and SQL. [cite: 6] | [View Code](#) |
-| *Personal Portfolio* | [cite_start]My digital space, built to showcase my skills and projects[cite: 3]. | [View Site](#) |
-| *Spam Mail Classifier* | [cite_start]A machine learning model built to detect and classify spam emails using NLP techniques[cite: 23]. | [View Code](#) |
-| *Flutter Calculator App* | [cite_start]A cross-platform calculator app developed with a responsive UI using Flutter and Dart[cite: 24]. | [View Code](#) |
-| *Open Source* | A repository documenting my PRs and contributions to the open-source community. | [View Repo](#) |
-
----
-
-### *Certifications 🏆*
-- [cite_start]*Programming in Java* (NPTEL Swayam - Elite) 
-- [cite_start]*Exploratory Data Analysis for Machine Learning* (IBM) 
-- [cite_start]*Graphic Design* (University of Colorado Boulder) 
-- [cite_start]*Spring Boot* (Infosys Springboard) 
+| Project Type              | Description                                                                 | Link |
+|---------------------------|-----------------------------------------------------------------------------|:----:|
+| **ReactJS Project**       | A dynamic and responsive web application built using ReactJS and Tailwind CSS. | [View Code](https://github.com/heenaf/portfolio-react) |
+| **Personal Portfolio**    | *My digital space, built to showcase my skills and projects.*               | [View Site](https://heenaf.github.io/) &nbsp;•&nbsp; [View Code](https://heena-h.netlify.app/) |
+| **Spam Mail Classifier**  | *A machine learning model built to detect and classify spam emails using NLP techniques.* | [View Code](https://github.com/heenaf/Spam-Mail-Classifier-ML) |
+| **Flutter Calculator App**| *A cross-platform calculator app developed with a responsive UI using Flutter and Dart.* | [View Code](https://github.com/heenaf/flutter_calculator_app) |
+| **Open Source**           | A repository documenting my PRs and contributions to the open-source community. | [View Repo](https://github.com/heenaf?tab=repositories&q=&type=source&language=&sort=stargazers) |
 
 ---
 
-### *My GitHub Stats 📊*
+### 🏆 Certifications
+
+- **Programming in Java** – NPTEL Swayam (Elite)  
+- **Exploratory Data Analysis for Machine Learning** – IBM  
+- **Graphic Design** – University of Colorado Boulder  
+- **Spring Boot** – Infosys Springboard  
+
+---
+
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" alt="Heena's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heenaf&show_icons=true&theme=tokyonight&rank_icon=github" alt="Heena's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenaf&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### 🔗 Let's Connect
+
+- **GitHub:** [github.com/heenaf](https://github.com/heenaf)  
+- **Portfolio:** [heenaf.github.io]((https://heena-h.netlify.app/))
+
+---
+
+🌟 *Thank you for visiting my profile! Feel free to explore, contribute, and connect!* 💬
