@@ -2,12 +2,13 @@
 
 ### Computer Science Student | Java & React Developer
 
-I am a passionate Computer Science student at Dhaanish Ahmed College of Engineering (Graduating 2026) with a 9.01 CGPA. [cite_start]I am skilled in building full-stack applications using Java, Python, and ReactJS. 
+I am a passionate Computer Science student at Dhaanish Ahmed College of Engineering (Graduating 2026) with a 9.01 CGPA. 
+I am skilled in building full-stack applications using Java, Python, and ReactJS. 
 I recently completed a *Java Programming internship at Codsoft*, where I translated theoretical knowledge into practical, hands-on projects.
 
 <p align="center">
   <a href="mailto:heenafathima0517@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/heenafathimah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
